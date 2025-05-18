@@ -132,7 +132,6 @@ Visit FastAPI Docs: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - Stores result in MongoDB with timestamp
 
 ---
-![alt text](image.png)
 
 ## 👨‍💻 Author
 
