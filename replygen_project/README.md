@@ -41,7 +41,7 @@ Here is an example of the response generated for an **Instagram post** input:
 
 This demonstrates how the `/reply` endpoint processes a real-world Instagram post and returns a contextual, human-like AI-generated reply tailored to the platform's tone and style.
 
-### 📷 Response of Twitter
+### 🐦 Response of Twitter
 
 Here is an example of the response generated for an **Twitter post** input:
 
@@ -50,7 +50,7 @@ Here is an example of the response generated for an **Twitter post** input:
 
 This demonstrates how the `/reply` endpoint processes a real-world Twitter post and returns a contextual, human-like AI-generated reply tailored to the platform's tone and style.
 
-### 📷 Response of Linkedin
+### 💼 Response of Linkedin
 
 Here is an example of the response generated for an **Linkedin post** input:
 
