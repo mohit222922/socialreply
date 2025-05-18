@@ -37,7 +37,7 @@ This project builds a system that generates **authentic, human-like replies** to
 Here is an example of the response generated for an **Instagram post** input:
 
 #### Example API Usage and Response:
-![response of Insta](response_images/Response_of_insta.png)
+![Response of Insta](response_images/Response_of_insta.png)
 
 This demonstrates how the `/reply` endpoint processes a real-world Instagram post and returns a contextual, human-like AI-generated reply tailored to the platform's tone and style.
 
@@ -46,7 +46,7 @@ This demonstrates how the `/reply` endpoint processes a real-world Instagram pos
 Here is an example of the response generated for an **Twitter post** input:
 
 #### Example API Usage and Response:
-![response of Twitter](replygen_project/response_images/Response_of_Twitter.png)
+![Response of Twitter](response_images/Response_of_Twitter.png)
 
 This demonstrates how the `/reply` endpoint processes a real-world Twitter post and returns a contextual, human-like AI-generated reply tailored to the platform's tone and style.
 
@@ -55,7 +55,7 @@ This demonstrates how the `/reply` endpoint processes a real-world Twitter post 
 Here is an example of the response generated for an **Linkedin post** input:
 
 #### Example API Usage and Response:
-![response of Linkedin](replygen_project/response_images/Response_of_linkedin.png)
+![Response of Linkedin](response_images/Response_of_linkedin.png)
 
 This demonstrates how the `/reply` endpoint processes a real-world Linkedin post and returns a contextual, human-like AI-generated reply tailored to the platform's tone and style.
 
