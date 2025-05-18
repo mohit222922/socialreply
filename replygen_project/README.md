@@ -30,6 +30,19 @@ This project builds a system that generates **authentic, human-like replies** to
 
 ---
 
+---
+
+### 📷 Response of Insta
+
+Here is an example of the response generated for an **Instagram post** input:
+
+#### Example API Usage and Response:
+![response of Insta](response_images/image.png)
+
+This demonstrates how the `/reply` endpoint processes a real-world Instagram post and returns a contextual, human-like AI-generated reply tailored to the platform's tone and style.
+
+---
+
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -100,6 +113,7 @@ Visit FastAPI Docs: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 - Stores result in MongoDB with timestamp
 
 ---
+![alt text](image.png)
 
 ## 👨‍💻 Author
 
